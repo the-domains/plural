@@ -1,0 +1,14 @@
+layout_spectrum: 0.998775125015527
+typography_spectrum: 0.7535363782662898
+color:
+  brandStrength: 0.32655382389202714
+  lightness: 0.9641166846267879
+  saturation: 0.017086064210161567
+  rhythmicContrast: 0.1200123205780983
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: PLURAL
